@@ -3,7 +3,7 @@ This repo for i love bit group only. others get out
 
 ------------------------------------------------
 
-# การต่อข้อ potentionmeter-with-mqqt
+# การต่อข้อ potentionmeter-with-mqtt
 
 ![alt text](https://github.com/mrakkan/we_are_one/blob/main/img/potentionmeter.png "Logo Title Text 1")
 
